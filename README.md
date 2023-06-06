@@ -13,11 +13,11 @@ Software engineer passionate about Web Development with 5-year experience in Web
 * 🤝  I'm open to collaborating on Laravel Application
 
 <a href="https://www.twitter.com/alaa_els3id" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/AliRadw88165878?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+  <img src="https://img.shields.io/twitter/follow/alaa_els3id?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
 
 <a href="https://www.github.com/alaaels3id" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/aliradwan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/alaaels3id?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 <a href="https://wa.me/0201007153686"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
