@@ -1,76 +1,127 @@
-Hi 👋 My name is Alaa Elsaid
-===========================
 
-Backend developer (PHP - Laravel)
-----------------------------
+<div align="center">
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+# Hi there, I'm Alaa Elsaid 👋
 
-Software engineer passionate about Web Development with 5-year experience in Web development(PHP & Laravel), I started with Plain PHP and moved to Laravel Framwork, I have experience in numerous companies with various types of the business, constantly striving to learn new technologies and find ways to improve myself.
+### Senior Backend Developer | PHP & Laravel
 
-* 🌍  I'm based in Egypt, Mansoura
-* ✉️  You can contact me at [alaa4cat@gmail.com](mailto:alaa4cat@gmail.com)
-* 🤝  I'm open to collaborating on Laravel Application
+**Building scalable, secure, and maintainable web applications.**
 
-<a href="https://www.twitter.com/alaa_els3id" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/alaa_els3id?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-22c55e?style=for-the-badge)](mailto:alaa4cat@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Mansoura%2C%20Egypt-0891b2?style=for-the-badge)](https://github.com/alaaels3id)
+[![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-8b5cf6?style=for-the-badge)](https://github.com/alaaels3id)
 
-<a href="https://www.github.com/alaaels3id" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/alaaels3id?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+</div>
 
-<a href="https://wa.me/0201007153686"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="dart" width="40" height="40"/> 
-  </a>
-  <a href="https://jquery.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+## 👨‍💻 About Me
 
+I'm a **Senior Backend Developer** based in Mansoura, Egypt, with **8+ years of professional experience** in web development, specializing in **PHP and Laravel**.
 
-### Socials
+I started my career with core PHP and progressively moved into Laravel, working across different companies and business domains.
 
-<p align="left"> 
-  <a href="https://www.github.com/alaaels3id" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.linkedin.com/in/alaa-elsaid-61230b86/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a> 
-  <a href="http://www.medium.com/@alaa_els3id" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.twitter.com/alaa_els3id" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-</p>
+My primary focus is building reliable backend systems, designing RESTful APIs, optimizing database performance, and writing clean, maintainable code.
 
-### Badges
+I'm passionate about software architecture, design patterns, performance optimization, and continuously improving my engineering skills.
 
-<b>My GitHub Stats</b>
+- 🔭 Focused on **Backend Development & Software Architecture**
+- 🌱 Exploring **System Design, DevOps & Advanced Laravel**
+- 💬 Ask me about **PHP, Laravel, REST APIs, MySQL & OOP**
+- 🤝 Open to collaborating on **Laravel & PHP projects**
+- 💼 Open to **Senior Backend Developer opportunities**
+- 📍 Based in **Mansoura, Egypt**
+- 📫 Reach me at **alaa4cat@gmail.com**
 
-<a href="http://www.github.com/alaaels3id"><img src="https://github-readme-stats.vercel.app/api?username=alaaels3id&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alaaels3id's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/alaaels3id"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alaaels3id&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/alaaels3id"><img src="https://activity-graph.herokuapp.com/graph?username=alaaels3id&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Backend Development
 
-<a href="https://github.com/alaaels3id" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaels3id&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
+### Databases & Caching
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+## 🧠 Engineering Expertise
+
+- **Backend Architecture:** MVC, SOLID Principles, Design Patterns
+- **API Development:** RESTful APIs, API Authentication, Laravel Sanctum, JWT
+- **Database Engineering:** Database Design, Query Optimization, MySQL
+- **Performance:** Redis Caching, Queues, Jobs, Laravel Octane
+- **Application Security:** Authentication, Authorization, Validation
+- **Development Workflow:** Git, Composer, Docker, Postman
+- **Code Quality:** Clean Code, Maintainability, Refactoring
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alaaels3id&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaels3id&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=alaaels3id&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alaaels3id&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaaels3id)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaa4cat@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201007153686)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alaa_els3id)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alaa_els3id)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Great software is built with clean code, thoughtful architecture, and continuous learning."
+
+![Profile Views](https://komarev.com/ghpvc/?username=alaaels3id&color=0891b2&style=for-the-badge)
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
